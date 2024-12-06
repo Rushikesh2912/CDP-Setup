@@ -137,4 +137,5 @@ To launch a Red Hat 8 EC2 instance and install Cloudera Data Platform (CDP), fol
 
 ---
 
-This completes the Cloudera Manager installation on your Red Hat 8 EC2 instance. For detailed troubleshooting or service-specific configurations, refer to the Cloudera documentation or the EC2 instance logs.
+### Author : Rushikesh Shinde
+### contact : +91 9623548002
